@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+weaviate-client>=3.26.7,<4.0.0
+transformers
+faiss-cpu
+torch
+uvicorn
